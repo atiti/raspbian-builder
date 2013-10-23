@@ -1,0 +1,7 @@
+pwd
+ls -la
+cd /usr/src/delivery
+kernel/kernel-install.sh
+./aircrack-install.sh
+bash
+
